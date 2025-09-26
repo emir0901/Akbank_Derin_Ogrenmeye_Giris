@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert*
+
+# Data/outputs
+outputs/
+checkpoints/
+models/
+
+# Streamlit
+.streamlit/
